@@ -1,3 +1,7 @@
+# Intro
+This Repo Contains My Solution for "Course 11 - OOP as It Should Be - Applications" From [ProgrammingAdvices.Com](https://programmingadvices.com/)
+The Solution Method Foucesed on "Divide & Conquer" , "Clean Code" and "OOP" Principles
+
 # What's Inside This Level
 
 Small Projects Built On Console:
