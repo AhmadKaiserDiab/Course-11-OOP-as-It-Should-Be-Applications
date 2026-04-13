@@ -9,7 +9,7 @@ Small Projects Built On Console:
 
 2. Validating Library: a Small Library Contains Methods For Validating User Inputs for Different Data Types Using Templates(Generics) + Validating Dates
 
-3. Bank Project: that Simulates a small bank contains the main services That any bank offers each on different screens, this project built using OOP principles and clean code and divded into 2-tiers one Represents the Presentation Layer (The Screens) and the other Represents the Bussines Layer(The Logic)
+3. Bank Project: that Simulates a small bank contains the main services That any bank offers each on different screens, this project built using OOP principles and clean code and divded into 2-tiers one Represents the Presentation Layer (The Screens) and the other Represents Both the Bussines & Data Layers.
 
 Note: this Project built base on project from [Level - 04] (https://github.com/AhmadKaiserDiab/Algorithms-and-Problem-Solving-Level-04)
 
